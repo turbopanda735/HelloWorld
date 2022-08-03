@@ -1,0 +1,15 @@
+C:\Users\joel k\repos\HelloWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.exe
+C:\Users\joel k\repos\HelloWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.deps.json
+C:\Users\joel k\repos\HelloWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.runtimeconfig.json
+C:\Users\joel k\repos\HelloWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.dll
+C:\Users\joel k\repos\HelloWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.pdb
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.csproj.AssemblyReference.cache
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.AssemblyInfo.cs
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.dll
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\refint\HellowWorld.dll
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.pdb
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.genruntimeconfig.cache
+C:\Users\joel k\repos\HelloWorld\HellowWorld\obj\Debug\net6.0\ref\HellowWorld.dll
